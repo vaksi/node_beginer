@@ -1,0 +1,11 @@
+{
+  "name": "latihan_node",
+  "version": "1.0.0",
+  "description": "tes",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC"
+}
